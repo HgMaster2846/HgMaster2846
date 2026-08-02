@@ -84,7 +84,7 @@ class HarshGupta:
 
 <table align=center>
 <tr>
-<td width="50%">
+<td width="50%" valign=top>
 
 ### 🔨 Building
 
@@ -95,7 +95,7 @@ class HarshGupta:
 
 </td>
 
-<td width="50%">
+<td width="50%" valign=top>
 
 ### 📚 Learning
 
