@@ -657,7 +657,7 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 
 <div align="center">
 
-# 📜 Certifications
+<h2> <u>📜 Certifications </u> </h2>
 
 </div>
 
@@ -687,7 +687,7 @@ Deloitte Cybersecurity
 
 <td align="center" width="33%" valign=top>
 
-### 🚀 In Progress
+<h2> <u> 🚀 In Progress </u> </h2>
 
 ISC² Certified in Cybersecurity (CC)
 
