@@ -631,7 +631,7 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/harsh-gupta-cybersecurity/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -643,11 +643,11 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<a href="https://tryhackme.com/p/Hghehe">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="https://app.hackthebox.com/profile/YOUR_ID">
+<a href="https://profile.hackthebox.com/profile/019ec48c-0232-728c-8da2-9aa9171df44e">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
