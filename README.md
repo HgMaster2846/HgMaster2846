@@ -334,7 +334,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 </div>
 
-<table>
+<table align=center>
 <tr>
 
 <td valign="top" width="25%">
