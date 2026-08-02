@@ -619,8 +619,6 @@ Artificial Intelligence ████████████░░░░░ 75%
 
 Backend Development    ███████████░░░░░░░ 70%
 
-Reverse Engineering    ██████░░░░░░░░░░░░ 35%
-
 Malware Analysis       ████░░░░░░░░░░░░░░ 25%
 ```
 
@@ -635,11 +633,11 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 | Goal | Progress |
 |------|----------|
 | 🤖 Build AI Pentest Assistant | 🟩🟩🟩🟩⬜ |
-| 🐞 Start Bug Bounty Journey | 🟩⬜⬜⬜⬜ |
-| 🔬 AI Security Research | 🟩🟩🟩⬜⬜ |
-| 📚 Reverse Engineering | 🟩🟩⬜⬜⬜ |
-| 🌍 Contribute to Open Source | 🟩🟩🟩⬜⬜ |
-| 📖 Publish Technical Blogs | 🟩⬜⬜⬜⬜ |
+| 🐞 Start Bug Bounty Journey   | 🟩⬜⬜⬜⬜ |
+| 🔬 AI Security Research       | 🟩🟩🟩⬜⬜ |
+| 🤖 Machine Learning           | 🟩🟩⬜⬜⬜ |
+| 🏅 New Certification          | 🟩🟩🟩⬜⬜ |
+| 📖 Publish Technical Blogs    | 🟩⬜⬜⬜⬜ |
 
 </div>
 
@@ -793,8 +791,8 @@ Building:
   - Open Source Projects
 
 Learning:
-  - Rust
-  - Binary Exploitation
+  - Autonomous & Agentic AI
+  - New Exploitations
   - Windows Internals
 ```
 
