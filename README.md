@@ -731,25 +731,24 @@ Azure Security
 
 </div>
 
-<div halign=left>
-```text 
+```text
+🧠 Research Interests
+
 Artificial Intelligence
-        │
-        ├── AI Security
-        ├── LLM Security
-        ├── Autonomous Agents
-        ├── RAG Systems
-        │
+├── AI Security
+├── LLM Security
+├── Autonomous Agents
+└── RAG Systems
+
 Cybersecurity
-        │
-        ├── Offensive Security
-        ├── Web Application Security
-        ├── Digital Forensics
-        ├── Threat Intelligence
-        ├── Reverse Engineering
-        └── Malware Analysis
+├── Offensive Security
+├── Web Application Security
+├── Digital Forensics
+├── Threat Intelligence
+├── Reverse Engineering
+└── Malware Analysis
 ```
-</div>
+
 ---
 
 <div align="center">
