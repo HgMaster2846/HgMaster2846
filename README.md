@@ -337,7 +337,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 <table align=center>
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="40%">
 
 ### 👨‍💻 Languages
 
@@ -354,7 +354,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="40%">
 
 ### 🌐 Development
 
@@ -371,7 +371,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="40%">
 
 ### 🤖 AI / ML
 
@@ -395,7 +395,7 @@ Vector Embeddings
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="40%">
 
 ### ⚙️ DevOps
 
