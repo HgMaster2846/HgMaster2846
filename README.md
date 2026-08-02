@@ -343,7 +343,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/><br>
+<img src="https://skillicons.dev/icons?i=python"/><br><b>Python</b><br><br>
 <img src="https://skillicons.dev/icons?i=cpp"/><br>
 <img src="https://skillicons.dev/icons?i=c"/><br>
 <img src="https://skillicons.dev/icons?i=js"/><br>
