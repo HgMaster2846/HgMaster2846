@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:00ff41,100:0a0e14&height=220&section=header&text=WHOAMI:%20HARSH%20GUPTA&fontSize=38&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=root@vsest:~$%20access_granted%20//%205%2B%20yrs%20CTF%20player&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HgMaster2846">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=B.Tech+(AI+%26+ML)+%7C+Cybersecurity+Enthusiast;40%2B+CTFs+Solved+%7C+5%2B+Years+Experience;Head%2C+Cybersecurity+Dept+%40+Aarvak+Technical+Society;Exploring+AI+%2B+LLM+Security+%7C+Red%2FBlue+Team;sudo+./break_things.sh+--responsibly" alt="Typing SVG" />
 </a>
 
