@@ -33,3 +33,125 @@
 ![](https://komarev.com/ghpvc/?username=HgMaster2846&style=for-the-badge&color=blue)
 
 </div>
+
+<div align="center">
+
+# 👋 About Me
+
+</div>
+
+```python
+class HarshGupta:
+
+    def __init__(self):
+        self.name = "Harsh Gupta"
+        self.role = "AI Engineer & Cybersecurity Researcher"
+        self.education = "B.Tech Artificial Intelligence & Machine Learning"
+        self.location = "Delhi NCR, India"
+
+        self.interests = [
+            "AI Security",
+            "Offensive Security",
+            "Web Application Pentesting",
+            "Digital Forensics",
+            "OSINT",
+            "Open Source"
+        ]
+
+        self.current_focus = [
+            "Building AI-powered Cybersecurity Tools",
+            "LLM Security Research",
+            "Autonomous Pentesting",
+            "Hack The Box",
+            "Bug Bounty"
+        ]
+
+        self.motto = "Understand systems. Break them ethically. Build them stronger."
+
+    def say_hi(self):
+        print("Thanks for stopping by 👋")
+```
+
+---
+
+<div align="center">
+
+## 🚀 What I'm Doing Right Now
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔨 Building
+
+- 🤖 AI Pentest Assistant
+- 🛡️ AI Security Research
+- 🧠 Agentic Security Tools
+- 🌐 Open Source Projects
+
+</td>
+
+<td width="50%">
+
+### 📚 Learning
+
+- Reverse Engineering
+- Malware Analysis
+- Binary Exploitation
+- Advanced Web Security
+- LLM Security
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Mission
+
+</div>
+
+> Building intelligent security tools that combine **Artificial Intelligence** with **Cybersecurity** to make security research faster, smarter, and more accessible.
+
+---
+
+<div align="center">
+
+## 💡 Interests
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI_Security-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM_Security-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web_Security-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CTFs-F97316?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"Security isn't just about finding vulnerabilities—it's about understanding systems deeply enough to build something better."*
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
