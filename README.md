@@ -80,6 +80,8 @@ class HarshGupta:
 
 </div>
 
+<div align=centre>
+
 <table>
 <tr>
 <td width="50%">
@@ -107,7 +109,7 @@ class HarshGupta:
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 <div align="center">
