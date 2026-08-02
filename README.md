@@ -343,12 +343,20 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/><br><b>Python</b><br><br>
-<img src="https://skillicons.dev/icons?i=cpp"/><br>
-<img src="https://skillicons.dev/icons?i=c"/><br>
-<img src="https://skillicons.dev/icons?i=js"/><br>
-<img src="https://skillicons.dev/icons?i=bash"/><br>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<td width="25%" valign="top">
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="40"/> <b>Python</b><br><br>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <b>C++</b><br><br>
+  <img src="https://skillicons.dev/icons?i=c" width="40"/> <b>C</b><br><br>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/> <b>JavaScript</b><br><br>
+  <img src="https://skillicons.dev/icons?i=bash" width="40"/> <b>Bash</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>MySQL</b>
+</p>
+
+</td>
 
 </p>
 
@@ -358,15 +366,13 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 ### 🌐 Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/><br>
-<img src="https://skillicons.dev/icons?i=express"/><br>
-<img src="https://skillicons.dev/icons?i=react"/><br>
-<img src="https://skillicons.dev/icons?i=html"/><br>
-<img src="https://skillicons.dev/icons?i=css"/><br>
-<img src="https://skillicons.dev/icons?i=git"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <b>Node.js</b><br><br>
+  <img src="https://skillicons.dev/icons?i=express" width="40"/> <b>Express.js</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/> <b>React</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html" width="40"/> <b>HTML5</b><br><br>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> <b>CSS3</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/> <b>Git</b>
 </p>
 
 </td>
@@ -399,14 +405,12 @@ Vector Embeddings
 
 ### ⚙️ DevOps
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker"/><br>
-<img src="https://skillicons.dev/icons?i=postgres"/><br>
-<img src="https://skillicons.dev/icons?i=supabase"/><br>
-<img src="https://skillicons.dev/icons?i=linux"/><br>
-<img src="https://skillicons.dev/icons?i=github"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/> <b>Docker</b><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/> <b>PostgreSQL</b><br><br>
+  <img src="https://skillicons.dev/icons?i=supabase" width="40"/> <b>Supabase</b><br><br>
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/> <b>Linux</b><br><br>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/> <b>GitHub</b>
 </p>
 
 </td>
