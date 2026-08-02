@@ -395,7 +395,7 @@ Vector Embeddings
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="30%">
 
 ### ⚙️ DevOps
 
