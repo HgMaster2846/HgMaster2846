@@ -363,9 +363,8 @@ I'm currently working on several exciting open-source cybersecurity projects.
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <b>Node.js</b><br><br>
   <img src="https://skillicons.dev/icons?i=express" width="40"/> <b>Express.js</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react" width="40"/> <b>React</b><br><br>
   <img src="https://skillicons.dev/icons?i=html" width="40"/> <b>HTML5</b><br><br>
-  <img src="https://skillicons.dev/icons?i=css" width="40"/> <b>CSS3</b><br><br>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> <b>CSS</b><br><br>
   <img src="https://skillicons.dev/icons?i=git" width="40"/> <b>Git</b>
 </p>
 
