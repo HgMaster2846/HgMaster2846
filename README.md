@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/harsh-gupta-cybersecurity/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -20,11 +20,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_TRYHACKME">
+<a href="https://tryhackme.com/p/Hghehe">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="YOUR_HTB">
+<a href="https://profile.hackthebox.com/profile/019ec48c-0232-728c-8da2-9aa9171df44e">
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
@@ -55,7 +55,8 @@ class HarshGupta:
             "Web Application Pentesting",
             "Digital Forensics",
             "OSINT",
-            "Open Source"
+            "Machine Learning"
+            "Autonomous AI"
         ]
 
         self.current_focus = [
@@ -63,7 +64,6 @@ class HarshGupta:
             "LLM Security Research",
             "Autonomous Pentesting",
             "Hack The Box",
-            "Bug Bounty"
         ]
 
         self.motto = "Understand systems. Break them ethically. Build them stronger."
@@ -97,6 +97,7 @@ class HarshGupta:
 
 ### 📚 Learning
 
+- AI Security
 - Reverse Engineering
 - Malware Analysis
 - Binary Exploitation
@@ -185,6 +186,7 @@ class HarshGupta:
 - 🔎 Recon Workflow
 - 📄 Report Generation
 - 📌 Knowledge Base
+- 🎤 Voice-Assisted
 
 <p align="center">
 
@@ -243,10 +245,10 @@ class HarshGupta:
 
 #### Features
 
-- Student Database
-- Marks Analysis
-- Rankings
-- Reports
+- 🧑‍🎓 Student Database
+- 💯 Marks Analysis
+- 🥇 Rankings
+- 📘 Reports
 
 <p align="center">
 
@@ -304,7 +306,7 @@ I'm currently working on several exciting open-source cybersecurity projects.
 </div>
 
 ```text
-█████████████████████████████░░░░░░░░░░░░░ 65%
+██████████████████████████████░░░░░░░░░░░░░ 65%
 
 ✅ AI Security
 ✅ Web Pentesting
