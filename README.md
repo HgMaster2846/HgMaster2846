@@ -82,7 +82,7 @@ class HarshGupta:
 
 
 
-<table align=centre>
+<table align=center>
 <tr>
 <td width="50%">
 
