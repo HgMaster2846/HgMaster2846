@@ -667,7 +667,7 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 
 <td align="center" width="33%" valign=top>
 
-<u>### ✅ Completed</u>
+### <u>✅ Completed</u>
 
 CDAC — Machine Learning in Cybersecurity
 
