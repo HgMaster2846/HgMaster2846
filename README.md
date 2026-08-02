@@ -40,38 +40,63 @@
 
 </div>
 
-```python
-class HarshGupta:
+# 👋 About Me
 
-    def __init__(self):
-        self.name = "Harsh Gupta"
-        self.role = "AI Engineer & Cybersecurity Researcher"
-        self.education = "B.Tech Artificial Intelligence & Machine Learning"
-        self.location = "Delhi NCR, India"
+```text
+harsh@cybersec:~$ whoami
 
-        self.interests = [
-            "AI Security",
-            "Offensive Security",
-            "Web Application Pentesting",
-            "Digital Forensics",
-            "OSINT",
-            "Machine Learning"
-            "Autonomous AI"
-        ]
+Harsh Gupta
+───────────
 
-        self.current_focus = [
-            "Building AI-powered Cybersecurity Tools",
-            "LLM Security Research",
-            "Autonomous Pentesting",
-            "Hack The Box",
-        ]
+Role        : AI Engineer & Cybersecurity Researcher
+Education   : B.Tech Artificial Intelligence & Machine Learning
+Location    : Delhi NCR, India
 
-        self.motto = "Understand systems. Break them ethically. Build them stronger."
+Focus
+├── AI Security
+├── Offensive Security
+├── Web Application Security
+├── Digital Forensics
+├── OSINT
+└── Autonomous AI
 
-    def say_hi(self):
-        print("Thanks for stopping by 👋")
+Current Mission
+├── Building AI Pentest Assistant
+├── AI Security Research
+├── Developing Autonomous Security Agents
+└── Experimenting with New Tech Trends 
+
+Currently Learning
+├── LLM Security
+├── Reverse Engineering
+├── Malware Analysis
+├── Binary Exploitation
+└── Advanced Web Security
+
+Tech Stack
+├── Python
+├── CyberSecurity
+├── AI 
+├── Machine Learning
+├── Linux
+├── Docker
+├── MySQL
+├── React & Node.js
+└── PostgreSQL
+
+Mission
+└── Build AI that augments (Expands) human cybersecurity capabilities.
+
+Motto
+└── "Understand systems. Break them ethically. Build them stronger."
+
+Status
+● Building...
+● Learning...
+● Never Stop Exploring.
+
+harsh@cybersec:~$ █
 ```
-
 ---
 
 <div align="center">
