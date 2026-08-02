@@ -665,7 +665,7 @@ Malware Analysis       ████░░░░░░░░░░░░░░ 25
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign=top>
 
 ### ✅ Completed
 
@@ -685,7 +685,7 @@ Deloitte Cybersecurity
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign=top>
 
 ### 🚀 In Progress
 
@@ -701,7 +701,7 @@ Malware Analysis
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign=top>
 
 ### 🎯 Next Targets
 
