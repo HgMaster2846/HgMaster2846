@@ -110,7 +110,7 @@ class HarshGupta:
 </tr>
 </table>
 </div>
----
+
 
 <div align="center">
 
@@ -254,7 +254,7 @@ class HarshGupta:
 
 <p align="center">
 
-<a href="#">
+<a href="https://github.com/HgMaster2846/HSH-Student-Analysis-Syste-">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -805,7 +805,7 @@ Learning:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-### ⭐ If you like my work, consider following me and checking out my repositories.
+### ⭐ If you like my work, consider following me and connecting to become a Better Version of ourselves.
 
 *"Building the future where AI and Cybersecurity work together."*
 
