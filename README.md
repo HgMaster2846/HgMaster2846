@@ -155,3 +155,652 @@ class HarshGupta:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<i>"Building solutions at the intersection of AI and Cybersecurity."</i>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Pentest Assistant *(In Progress)*
+
+> An intelligent cybersecurity assistant designed to help penetration testers investigate targets, organize findings, recommend next steps, and generate reports using LLMs.
+
+#### ⚙️ Stack
+
+`Python` `SQLite` `Docker` `LLMs` `RAG`
+
+#### Features
+
+- 📁 Case Management
+- 🧠 AI Recommendations
+- 🔎 Recon Workflow
+- 📄 Report Generation
+- 📌 Knowledge Base
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌊 ARGO
+
+> AI-powered ocean intelligence platform developed during Smart India Hackathon.
+
+#### ⚙️ Stack
+
+`Node.js` `Docker` `PostgreSQL`
+
+`Supabase`
+
+#### Features
+
+- 🌍 Ocean Data Analysis
+- 🔍 Semantic Search
+- 🤖 AI Query Engine
+- 📈 Interactive Dashboard
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Student Analysis System
+
+> CLI application for student management and performance analysis.
+
+#### ⚙️ Stack
+
+`Python`
+
+`MySQL`
+
+#### Features
+
+- Student Database
+- Marks Analysis
+- Rankings
+- Reports
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔒 Coming Soon...
+
+I'm currently working on several exciting open-source cybersecurity projects.
+
+#### Planned
+
+- AI Security Toolkit
+- LLM Vulnerability Scanner
+- Agentic Pentesting Framework
+- Malware Analysis Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Stay_Tuned-7C3AED?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Highlights
+
+| 🚩 CTFs | 🛡️ Experience | 🏅 Hackathons | 👨‍🏫 Leadership |
+|:------:|:-------------:|:------------:|:--------------:|
+| **40+** | **5+ Years** | **SIH • NSUT • Adobe** | **Cybersecurity Lead** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Roadmap
+
+</div>
+
+```text
+█████████████████████████████░░░░░░░░░░░░░ 65%
+
+✅ AI Security
+✅ Web Pentesting
+✅ Python Automation
+✅ Linux
+
+🔄 Reverse Engineering
+🔄 Malware Analysis
+🔄 Agentic AI
+
+⬜ Bug Bounty
+⬜ Open Source Framework
+⬜ Security Research Publications
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<div align="center">
+
+# 💻 Tech Arsenal
+
+<i>Technologies I enjoy building and breaking things with.</i>
+
+</div>
+
+<table>
+<tr>
+
+<td valign="top" width="25%">
+
+### 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/><br>
+<img src="https://skillicons.dev/icons?i=cpp"/><br>
+<img src="https://skillicons.dev/icons?i=c"/><br>
+<img src="https://skillicons.dev/icons?i=js"/><br>
+<img src="https://skillicons.dev/icons?i=bash"/><br>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🌐 Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/><br>
+<img src="https://skillicons.dev/icons?i=express"/><br>
+<img src="https://skillicons.dev/icons?i=react"/><br>
+<img src="https://skillicons.dev/icons?i=html"/><br>
+<img src="https://skillicons.dev/icons?i=css"/><br>
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=py"/><br>
+
+NumPy
+
+Pandas
+
+Scikit-Learn
+
+Ollama
+
+HuggingFace
+
+Vector Embeddings
+
+</p>
+
+</td>
+
+<td valign="top" width="25%">
+
+### ⚙️ DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker"/><br>
+<img src="https://skillicons.dev/icons?i=postgres"/><br>
+<img src="https://skillicons.dev/icons?i=supabase"/><br>
+<img src="https://skillicons.dev/icons?i=linux"/><br>
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🛡 Cybersecurity Toolkit
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLMap-E63946?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ffuf-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gobuster-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/John_The_Ripper-B71C1C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Netcat-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ExifTool-5D4037?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Binwalk-512DA8?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🧠 Areas of Interest
+
+</div>
+
+```text
+Artificial Intelligence
+        │
+        ├──────── AI Security
+        │
+        ├──────── LLM Security
+        │
+        ├──────── Agentic AI
+        │
+        ├──────── Offensive Security
+        │
+        ├──────── Web Application Security
+        │
+        ├──────── Digital Forensics
+        │
+        ├──────── OSINT
+        │
+        └──────── Open Source Security
+```
+
+---
+
+<div align="center">
+
+## 📚 Currently Exploring
+
+| 🛡 Security | 🤖 AI | 💻 Development |
+|------------|-------|----------------|
+| Reverse Engineering | Agentic AI | System Design |
+| Malware Analysis | LLM Security | Open Source |
+| Binary Exploitation | RAG Systems | Backend Engineering |
+| Bug Bounty | AI Agents | Docker Ecosystem |
+
+</div>
+
+---
+
+<div align="center">
+
+> ### *"Great engineers don't just use tools—they build them."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HgMaster2846&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=HgMaster2846&theme=github-dark-blue&hide_border=true"/>
+
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=HgMaster2846&theme=github-dark&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HgMaster2846&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=HgMaster2846&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚩 Journey So Far
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+# 🚩
+
+## 40+
+
+CTFs Played
+
+</td>
+
+<td align="center" width="25%">
+
+# 🛡️
+
+## 5+
+
+Years Experience
+
+</td>
+
+<td align="center" width="25%">
+
+# 🎓
+
+## 9.23
+
+CGPA
+
+</td>
+
+<td align="center" width="25%">
+
+# 👨‍🏫
+
+## 100+
+
+Students Mentored
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📈 Growth
+
+```text
+Cybersecurity          ████████████████░░ 90%
+
+Python                 ███████████████░░░ 85%
+
+Artificial Intelligence ████████████░░░░░ 75%
+
+Backend Development    ███████████░░░░░░░ 70%
+
+Reverse Engineering    ██████░░░░░░░░░░░░ 35%
+
+Malware Analysis       ████░░░░░░░░░░░░░░ 25%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 2026 Goals
+
+| Goal | Progress |
+|------|----------|
+| 🤖 Build AI Pentest Assistant | 🟩🟩🟩🟩⬜ |
+| 🐞 Start Bug Bounty Journey | 🟩⬜⬜⬜⬜ |
+| 🔬 AI Security Research | 🟩🟩🟩⬜⬜ |
+| 📚 Reverse Engineering | 🟩🟩⬜⬜⬜ |
+| 🌍 Contribute to Open Source | 🟩🟩🟩⬜⬜ |
+| 📖 Publish Technical Blogs | 🟩⬜⬜⬜⬜ |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+<div align="center">
+
+# 🌍 Let's Connect
+
+<i>Always open to collaborations, research, hackathons, and interesting conversations.</i>
+
+<br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harsh28apr@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HgMaster2846">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<a href="https://app.hackthebox.com/profile/YOUR_ID">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📜 Certifications
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ✅ Completed
+
+CDAC — Machine Learning in Cybersecurity
+
+Hackviser CORE
+
+HP AI & Cybersecurity
+
+Linux
+
+Docker
+
+Python
+
+Deloitte Cybersecurity
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 In Progress
+
+ISC² Certified in Cybersecurity (CC)
+
+GeeksforGeeks Cybersecurity
+
+Hack The Box
+
+Reverse Engineering
+
+Malware Analysis
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 Next Targets
+
+OSCP
+
+CRTO
+
+CPTS
+
+PNPT
+
+AWS Security
+
+Azure Security
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🧠 Research Interests
+
+</div>
+
+```text
+Artificial Intelligence
+        │
+        ├── AI Security
+        ├── LLM Security
+        ├── Autonomous Agents
+        ├── RAG Systems
+        │
+Cybersecurity
+        │
+        ├── Offensive Security
+        ├── Web Application Security
+        ├── Digital Forensics
+        ├── Threat Intelligence
+        ├── Reverse Engineering
+        └── Malware Analysis
+```
+
+---
+
+<div align="center">
+
+# 📖 Current Reading
+
+</div>
+
+```yaml
+Reading:
+  - Web Security
+  - LLM Security
+  - Reverse Engineering
+  - Malware Development
+  - AI Agents
+
+Building:
+  - AI Pentest Assistant
+  - Security Automation
+  - Open Source Projects
+
+Learning:
+  - Rust
+  - Binary Exploitation
+  - Windows Internals
+```
+
+---
+
+<div align="center">
+
+# 💬 Favorite Quote
+
+> **"The best way to predict the future of cybersecurity is to build it."**
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👀 Thanks for Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+### ⭐ If you like my work, consider following me and checking out my repositories.
+
+*"Building the future where AI and Cybersecurity work together."*
+
+</div>
+
