@@ -731,7 +731,8 @@ Azure Security
 
 </div>
 
-```text
+<div halign=left>
+```text 
 Artificial Intelligence
         │
         ├── AI Security
@@ -748,7 +749,7 @@ Cybersecurity
         ├── Reverse Engineering
         └── Malware Analysis
 ```
-
+</div>
 ---
 
 <div align="center">
