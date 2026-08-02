@@ -703,7 +703,7 @@ Malware Analysis
 
 <td align="center" width="33%" valign=top>
 
-### 🎯 Next Targets
+<h2> <u> 🎯 Next Targets </u> </h2>
 
 OSCP
 
