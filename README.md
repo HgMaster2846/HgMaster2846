@@ -80,9 +80,9 @@ class HarshGupta:
 
 </div>
 
-<div align=centre>
 
-<table>
+
+<table align=centre>
 <tr>
 <td width="50%">
 
