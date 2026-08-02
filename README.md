@@ -341,12 +341,6 @@ I'm currently working on several exciting open-source cybersecurity projects.
 
 ### 👨‍💻 Languages
 
-<p align="center">
-
-<td width="25%" valign="top">
-
-### 👨‍💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="40"/> <b>Python</b><br><br>
   <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <b>C++</b><br><br>
