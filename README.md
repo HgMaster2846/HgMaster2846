@@ -246,9 +246,6 @@ harsh@cybersec:~$ █
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
-</a>
 
 </p>
 
