@@ -218,7 +218,7 @@ harsh@cybersec:~$ █
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stay_Tuned-7C3AED?style=for-the-badge"/>
 </a>
 
 </p>
@@ -246,7 +246,9 @@ harsh@cybersec:~$ █
 
 <p align="center">
 
-
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
 </p>
 
 </td>
